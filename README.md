@@ -10,10 +10,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/hungtq10016/akiaki-ui">
-    <img src="/demo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/hungtq1016/akiaki-ui">
+    <img src="https://i.imgur.com/iPNh4dJ.png" alt="Logo" width="80" height="80">
   </a>
-
+<!-- https://i.imgur.com/OeHKd86.png -->
   <h3 align="center">akiaki-ui</h3>
 
   <p align="center">
@@ -51,7 +51,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -65,16 +64,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The AkiAki Dental Clinic Management System is designed to streamline the operations of dental clinics. This project encompasses a range of features to improve efficiency and patient care. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Here's why this project is essential:
 
-Use the `BLANK_README.md` to get started.
+* Focus on creating something that solves real problems and helps others.
+* Avoid repetitive tasks like creating a new README from scratch.
+* Implement DRY principles in all aspects of development.
+
+No single template can meet all project needs, but this one aims to cover the essential aspects. Feel free to suggest changes by forking the repo and creating a pull request or opening an issue. Thanks to all contributors!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +81,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project is built using several major frameworks and libraries:
 
 * [![Tailwind][TailwindCSS]][Tailwind-url]
 * [![Pinia][Pinia.vuejs]][Pinia-url]
@@ -97,12 +96,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Ensure you have the following installed:
+
 * NodeJS
   ```link
   https://nodejs.org
@@ -114,8 +113,6 @@ This is an example of how to list things you need to use the software and how to
   powershell -c "irm bun.sh/install.ps1 | iex"
   ```
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -156,27 +153,10 @@ _Below is an example of how you can instruct your audience on installing and set
 - [x] Multi-language Support
     - [x] English
     - [x] Vietnamese
-- [ ] Selling product
-
-See the [open issues](https://github.com/hungtq1016/akiaki-ui/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [ ] Selling product system
+- [ ] Employee management system
+- [ ] Branch system
+- [ ] Membership system
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +187,7 @@ Back-end Repo: [link](https://github.com/hungtq1016/akiaki-ap)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I would like to express my gratitude to the following resources that have been helpful in the development of this project:
 
 * [vuejs](https://vuejs.org/)
 * [pinia](https://pinia.vuejs.org/)
@@ -234,7 +214,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=0e76a8
 [linkedin-url]: https://www.linkedin.com/in/hungtran1016
 
-[product-screenshot]: demo.png
+[product-screenshot]: https://i.imgur.com/OeHKd86.png
 [TailwindCSS]: https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
 [Pinia.vuejs]: https://img.shields.io/badge/🍍-Pinia-yellow?style=for-the-badge&logo=pinia&logoColor=white
