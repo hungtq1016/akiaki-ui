@@ -13,20 +13,12 @@
   <a href="https://github.com/hungtq1016/akiaki-ui">
     <img src="https://i.imgur.com/iPNh4dJ.png" alt="Logo" width="80" height="80">
   </a>
-<!-- https://i.imgur.com/OeHKd86.png -->
-  <h3 align="center">akiaki-ui</h3>
+  <h3 align="center">akiaki-clinic</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/hungtq1016/akiaki-ui"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/hungtq1016/akiaki-ui">View Demo</a>
-    ·
-    <a href="https://github.com/hungtq1016/akiaki-ui/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/hungtq1016/akiaki-ui/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
+  <a href="https://aki-aki-fe.vercel.app/">View Demo</a>
+
   </p>
 </div>
 
@@ -62,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/hungtq1016/akiaki-ui)
 
 
 The AkiAki Dental Clinic Management System is designed to streamline the operations of dental clinics. This project encompasses a range of features to improve efficiency and patient care. 
